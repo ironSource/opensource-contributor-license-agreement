@@ -1,13 +1,6 @@
 # opensource-contributor-license-agreement
 
-An opensource contributor license agreement for ironSource OS projects.
-Entities who are not ironSource employees or contractors must sign this agreement to be able to contribute to our open source projects.
+An open source contributor license agreement for ironSource open source projects. 
+If you are not an employee or a contractor of ironSource, you must agree to the contributor license agreement before contributing to our open source projects.
 
-## How?
-1. Download the `cla-agreement.pdf`
-2. Fill in the yellow highlighted fields: your name, day, month, year
-3. Sign in the end and feel in your name and github username
-4. Create an issue in this repository and attach the signed document
-
-We appreciate your contribution!
-
+*We appreciate your contribution!*
